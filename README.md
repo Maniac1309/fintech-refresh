@@ -1,2 +1,2 @@
 # fintech-refresh
-Author - Manya Agrawal
+Author - Manya (student)
